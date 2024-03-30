@@ -5,6 +5,12 @@
 /.pnp
 .pnp.js
 
+
+tailwind.config.js
+packet.json
+packet.lock.json
+
+
 # testing
 /coverage
 
